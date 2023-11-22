@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "12401899E412A")(type "KiCad")(uri "${KIPRJMOD}/12401899E412A")(options "")(descr ""))
+  (lib (name "10137061-00021LF")(type "KiCad")(uri "${KIPRJMOD}/10137061-00021LF")(options "")(descr ""))
+  (lib (name "436351045816")(type "KiCad")(uri "${KIPRJMOD}/436351045816")(options "")(descr ""))
+  (lib (name "TB002-500-02BE")(type "KiCad")(uri "${KIPRJMOD}/TB002-500-02BE")(options "")(descr ""))
+)

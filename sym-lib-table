@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "STM32G030F6")(type "KiCad")(uri "${KIPRJMOD}/STM32G030F6.kicad_sym")(options "")(descr ""))
+  (lib (name "FUSB302BVMPX")(type "KiCad")(uri "${KIPRJMOD}/FUSB302BVMPX.kicad_sym")(options "")(descr ""))
+  (lib (name "12401899E412A")(type "Legacy")(uri "${KIPRJMOD}/12401899E412A/12401899E412A.lib")(options "")(descr ""))
+  (lib (name "10137061-00021LF")(type "Legacy")(uri "${KIPRJMOD}/10137061-00021LF/10137061-00021LF.lib")(options "")(descr ""))
+  (lib (name "436351045816")(type "Legacy")(uri "${KIPRJMOD}/436351045816/436351045816.lib")(options "")(descr ""))
+)
